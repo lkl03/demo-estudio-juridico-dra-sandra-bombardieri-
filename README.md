@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-sandra-bombardieri-
-Demo web para Estudio Jurídico Dra. Sandra Bombardieri &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Dra. Sandra Bombardieri & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
